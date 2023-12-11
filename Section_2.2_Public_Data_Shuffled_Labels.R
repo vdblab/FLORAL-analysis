@@ -1,7 +1,7 @@
 ### Please download the dataset folder "Hackathon" from https://figshare.com/articles/dataset/16S_rRNA_Microbiome_Datasets/14531724
 
 ### Set the path to the folder Hackathon
-datapath="~/Projects/logratiolasso/Hackathon"
+datapath="Hackathon"
 
 ### Before running this code, please create a folder named "results_seed1" under the folder "Hackathon" to save results.
 
